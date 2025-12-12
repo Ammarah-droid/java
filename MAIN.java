@@ -12,7 +12,7 @@ public class MAIN {
 
         int age=scanner.nextInt();
         System.out.println("-----");
-        System.out.println("Hello,"+name);
+        System.out.println("Hello dear,"+name);
         System.out.println("you are,"+age+"years");
         scanner.close();
     
